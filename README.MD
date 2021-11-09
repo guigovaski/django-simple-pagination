@@ -1,0 +1,1 @@
+# Paginação simples com Django ~ praticando
